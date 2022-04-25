@@ -1,10 +1,11 @@
 # Ignore these directories:
-__pycache__/
-dist/
+preprocessing/__pycache__/
+preprocessing/dist/
 ISS_preprocessing.egg-info/
 
 
 # Ignore temporary files:
-*.DS_Store
+*preprocessing/.DS_Store
 
 
+.DS_Store
